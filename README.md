@@ -260,18 +260,12 @@ This module is released under the [MIT License](LICENSE).
 
 ## 🙏 Credits
 
-Developed with ❤️ by CODEX for LO
+Developed with ❤️ by ARNAUD-OLIVIER
 
 ### Special Thanks
 - PrestaShop Community
 - Chart.js Contributors
 - React Team
-
-## 📞 Support
-
-- **Documentation**: [Wiki](https://github.com/yourusername/customersearchtracker/wiki)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/customersearchtracker/issues)
-- **Forum**: [PrestaShop Forums](https://www.prestashop.com/forums/)
 
 ## 🗺️ Roadmap
 
