@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>customersearchtracker</name>
+    <displayName><![CDATA[Customer Search Tracker]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Track customer searches to understand their needs better]]></description>
+    <author><![CDATA[CODEX for LO]]></author>
+    <tab><![CDATA[analytics_stats]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+    <limited_countries></limited_countries>
+</module>
