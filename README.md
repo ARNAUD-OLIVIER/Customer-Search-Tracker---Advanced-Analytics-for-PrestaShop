@@ -62,7 +62,7 @@ Customer Search Tracker is a powerful PrestaShop module that provides deep insig
 
 1. **Download the module**
    ```bash
-   git clone https://github.com/yourusername/customersearchtracker.git
+   git clone [https://github.com/ARNAUD-OLIVIER/Customer-Search-Tracker---Advanced-Analytics-for-PrestaShop.git]
    ```
 
 2. **Build frontend assets**
